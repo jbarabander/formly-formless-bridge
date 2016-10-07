@@ -1,0 +1,14 @@
+{
+  "name": "formly-formless-bridge",
+  "version": "1.0.0",
+  "description": "a bridge for formly to formless",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jbarabander",
+  "license": "ISC",
+  "dependencies": {
+    "Formless": "^1.0.5"
+  }
+}
